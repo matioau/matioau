@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mathio
+- 👋 Hi, I’m @mati
 - 👀 I’m interested in programing and linux
-- 🌱 I’m currently learning C++ and git or linux 
+- 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on all who have knowlage and willingness 
-- 📫 How to reach me my mail: "szokwow@gmail.com" and i want to start a blog :D
+- 📫 How to reach me my mail: "szokwow@gmail.com" :D
 
 <!---ho 
 matioau/matioau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
